@@ -26,8 +26,8 @@ Chương trình chơi cờ Caro giữa người và máy, sử dụng thuật to
 
 ```bash
 # Clone repository
-git clone https://github.com/nhom/23021211_23021205_23021227_CaroAI.git
-cd 23021211_23021205_23021227_CaroAI
+git clone https://github.com/KyoChanZ/23021205_23021211_23021227_CaroAI.git
+cd 23021205_23021211_23021227_CaroAI
 
 # Cài thư viện
 pip install -r requirements.txt
